@@ -1,0 +1,5 @@
+# Ignore this shiz
+
+node_modules
+node_modules/*
+sitemap.xml
